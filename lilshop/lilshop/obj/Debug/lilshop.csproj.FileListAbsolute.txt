@@ -1,0 +1,7 @@
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\bin\Debug\lilshop.exe.config
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\bin\Debug\lilshop.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\bin\Debug\lilshop.pdb
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\obj\Debug\lilshop.csproj.AssemblyReference.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\obj\Debug\lilshop.csproj.CoreCompileInputs.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\obj\Debug\lilshop.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\lilshop\lilshop\obj\Debug\lilshop.pdb
