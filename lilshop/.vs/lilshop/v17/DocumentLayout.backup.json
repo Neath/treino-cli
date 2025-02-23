@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\lilshop\\lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Program.cs",
+              "RelativeDocumentMoniker": "lilshop\\Program.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Program.cs",
+              "RelativeToolTip": "lilshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:02:46.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
