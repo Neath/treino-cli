@@ -1,0 +1,7 @@
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\bin\Debug\ExceptionBank.exe.config
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\bin\Debug\ExceptionBank.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\bin\Debug\ExceptionBank.pdb
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\obj\Debug\ExceptionBank.csproj.AssemblyReference.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\obj\Debug\ExceptionBank.csproj.CoreCompileInputs.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\obj\Debug\ExceptionBank.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\ExceptionBank\ExceptionBank\obj\Debug\ExceptionBank.pdb

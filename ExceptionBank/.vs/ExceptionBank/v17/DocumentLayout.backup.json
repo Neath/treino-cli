@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\exceptionbank\\exceptionbank\\ent\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|solutionrelative:exceptionbank\\ent\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\exceptionbank\\exceptionbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|solutionrelative:exceptionbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\exceptionbank\\exceptionbank\\ent\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9FC0AF-B3E6-4549-ADD8-5856F61702D0}|ExceptionBank\\ExceptionBank.csproj|solutionrelative:exceptionbank\\ent\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Ent\\Account.cs",
+              "RelativeDocumentMoniker": "ExceptionBank\\Ent\\Account.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Ent\\Account.cs",
+              "RelativeToolTip": "ExceptionBank\\Ent\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:49:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Ent\\AppException.cs",
+              "RelativeDocumentMoniker": "ExceptionBank\\Ent\\AppException.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Ent\\AppException.cs",
+              "RelativeToolTip": "ExceptionBank\\Ent\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:47:51.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionBank\\Program.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\ExceptionBank\\ExceptionBank\\Program.cs",
+              "RelativeToolTip": "ExceptionBank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:46:57.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
