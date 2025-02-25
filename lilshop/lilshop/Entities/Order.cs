@@ -1,6 +1,7 @@
 ﻿using lilshop.Entities.Enums;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace lilshop.Entities
 {
@@ -38,10 +39,29 @@ namespace lilshop.Entities
             double sum = 0.0;
             foreach (OrderItem item in Items)
             {
-                sum += item.Price;
+                sum += item.SubTotal();
             }
             return sum;
         }
 
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.Append("Order status: ");
+            sb.AppendLine(Status.ToString());
+            sb.Append(Client.ToString());
+            sb.AppendLine("Order items: ");
+
+            foreach (OrderItem item in Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+
+            sb.Append("Total price: ");
+            sb.Append(Total().ToString("C2"));
+            return sb.ToString();
+        }
     }
 }

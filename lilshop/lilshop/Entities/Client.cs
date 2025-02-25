@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace lilshop.Entities
 {
@@ -20,6 +21,19 @@ namespace lilshop.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Client: ");
+            sb.Append(Name);
+            sb.Append(" (");
+            sb.Append(BirthDate.ToString("dd/MM/yyyy"));
+            sb.Append(") - ");
+            sb.Append(Email);
+            sb.AppendLine();
+            return sb.ToString();
         }
     }
 }
