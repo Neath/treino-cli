@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\leaozinho\\leaozinho\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|solutionrelative:leaozinho\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\leaozinho\\leaozinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|solutionrelative:leaozinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\leaozinho\\leaozinho\\entities\\taxedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|solutionrelative:leaozinho\\entities\\taxedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\leaozinho\\leaozinho\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46058E6-988B-4E7A-91AB-E83F14B261FA}|leaozinho\\leaozinho.csproj|solutionrelative:leaozinho\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "leaozinho\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\Company.cs",
+              "RelativeToolTip": "leaozinho\\Entities\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:28:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "leaozinho\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\Person.cs",
+              "RelativeToolTip": "leaozinho\\Entities\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:27:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\TaxedEntity.cs",
+              "RelativeDocumentMoniker": "leaozinho\\Entities\\TaxedEntity.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Entities\\TaxedEntity.cs",
+              "RelativeToolTip": "leaozinho\\Entities\\TaxedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:23:28.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Program.cs",
+              "RelativeDocumentMoniker": "leaozinho\\Program.cs",
+              "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\leaozinho\\leaozinho\\Program.cs",
+              "RelativeToolTip": "leaozinho\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:21:15.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

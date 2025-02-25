@@ -1,0 +1,7 @@
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\bin\Debug\leaozinho.exe.config
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\bin\Debug\leaozinho.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\bin\Debug\leaozinho.pdb
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\obj\Debug\leaozinho.csproj.AssemblyReference.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\obj\Debug\leaozinho.csproj.CoreCompileInputs.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\obj\Debug\leaozinho.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\leaozinho\leaozinho\obj\Debug\leaozinho.pdb
