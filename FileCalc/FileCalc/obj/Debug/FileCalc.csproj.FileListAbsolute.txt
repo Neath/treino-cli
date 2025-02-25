@@ -1,0 +1,7 @@
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\bin\Debug\FileCalc.exe.config
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\bin\Debug\FileCalc.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\bin\Debug\FileCalc.pdb
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\obj\Debug\FileCalc.csproj.AssemblyReference.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\obj\Debug\FileCalc.csproj.CoreCompileInputs.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\obj\Debug\FileCalc.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\FileCalc\FileCalc\obj\Debug\FileCalc.pdb
