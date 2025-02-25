@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\lilshop\\lilshop\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|c:\\users\\ddvil\\documents\\dev\\repos\\treino-cli\\lilshop\\lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC36C1-C7AE-4616-822F-477551A1328F}|lilshop\\lilshop.csproj|solutionrelative:lilshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "lilshop\\Entities\\Enums\\OrderStatus.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "lilshop\\Entities\\Order.cs",
               "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Order.cs",
               "RelativeToolTip": "lilshop\\Entities\\Order.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T21:37:14.123Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "lilshop\\Entities\\Client.cs",
               "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Client.cs",
               "RelativeToolTip": "lilshop\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T21:33:21.16Z",
               "EditorCaption": ""
@@ -83,27 +83,27 @@
               "RelativeDocumentMoniker": "lilshop\\Entities\\OrderItem.cs",
               "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\OrderItem.cs",
               "RelativeToolTip": "lilshop\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T21:31:45.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "lilshop\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Entities\\Product.cs",
               "RelativeToolTip": "lilshop\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T21:30:46.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ddvil\\Documents\\DEV\\repos\\treino-cli\\lilshop\\lilshop\\Program.cs",
               "RelativeDocumentMoniker": "lilshop\\Program.cs",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "lilshop\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T21:02:46.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T21:02:46.898Z"
             }
           ]
         }
