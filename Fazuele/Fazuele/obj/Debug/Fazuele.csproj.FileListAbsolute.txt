@@ -1,0 +1,7 @@
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\bin\Debug\Fazuele.exe.config
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\bin\Debug\Fazuele.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\bin\Debug\Fazuele.pdb
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\obj\Debug\Fazuele.csproj.AssemblyReference.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\obj\Debug\Fazuele.csproj.CoreCompileInputs.cache
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\obj\Debug\Fazuele.exe
+C:\Users\ddvil\Documents\DEV\repos\treino-cli\Fazuele\Fazuele\obj\Debug\Fazuele.pdb
