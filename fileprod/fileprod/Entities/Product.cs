@@ -4,8 +4,6 @@ namespace fileprod.Entities
 {
     class Product
     {
-        List<Product> list = new List<Product>();
-
         public Product()
         {
         }
@@ -17,11 +15,6 @@ namespace fileprod.Entities
         {
             Name = name;
             Price = price;
-        }
-
-        public void AddProcut(Product prod)
-        {
-            list.Add(prod);
         }
     }
 }

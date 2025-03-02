@@ -35,7 +35,7 @@ namespace fileprod
                 Console.WriteLine(e.Message);
             }
 
-            double average = list.Average(p => p.Price);
+            double average = list.Select(p => p.Price).DefaultIfEmpty(0.0).Average();
             Console.WriteLine("Average price: " + average.ToString("C2"));
 
             var selected = list.Where(p => p.Price < average).OrderByDescending(p => p.Name);
