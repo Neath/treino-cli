@@ -31,21 +31,21 @@ namespace empdatafile
                         list.Add(new Employee(name, email, salary));
                     }
                 }
+                var Emp = list.Where(f => f.Salary > minsalary).OrderBy(p => p.Name);
+                var salarySum = list.Where(p => p.Name[0] == 'M').Sum(p => p.Salary);
+
+                Console.WriteLine("Email of people whose salary is more than " + minsalary.ToString("C2") + ":");
+                foreach (Employee emp in Emp)
+                {
+                    Console.WriteLine(emp.Email);
+                }
+                Console.WriteLine("Sum of salary of people whose name starts with 'M': " + salarySum.ToString("C2"));
+
             }
             catch (IOException e)
             {
                 Console.WriteLine(e.Message);
             }
-            var Emp = list.Where(f => f.Salary > minsalary).OrderBy(p => p.Name);
-            var salarySum = list.Where(p => p.Name[0] == 'M').Sum(p => p.Salary);
-
-            Console.WriteLine("Email of people whose salary is more than 2000.00: ");
-            foreach (Employee emp in Emp)
-            {
-                Console.WriteLine(emp.Email);
-            }
-            Console.WriteLine("Sum of salary of people whose name starts with 'M': " + salarySum.ToString("C2"));
-
         }
     }
 }
